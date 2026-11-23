@@ -1,1 +1,20 @@
+# Compiled Object files
+*.o
+*.obj
 
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Runtime & Temporary Data Files
+studentRecord.txt
+record.txt
+
+# IDE / Editor folders
+.vscode/
+.vs/
